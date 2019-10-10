@@ -1,6 +1,6 @@
-# CalSync
+# FEFUCalendar
 
-> My solid Nuxt.js project
+> Syncing FEFU's schedule with Google Calendar
 
 ## Build Setup
 
